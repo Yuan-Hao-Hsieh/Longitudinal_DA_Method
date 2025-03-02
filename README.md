@@ -56,27 +56,4 @@ Analyzes how two drugs affect inhibition values over time using residual analysi
 
 ---
 
-## Repository Navigation and Usage
-
-- **Files & Reports:**  
-  Each PDF file (p1–p5) contains detailed SAS outputs, parameter estimation tables, and discussion of findings.
-  
-- **Software & Tools:**  
-  Primary analyses were conducted using SAS. Supplemental visualization and documentation were prepared in Python.
-
-- **How to Replicate:**  
-  While the core analyses are available in the PDF reports, any corresponding code (e.g., for plotting) can be found in the individual project folders. To run such scripts:
-  1. Clone the repository:
-     ```bash
-     git clone https://github.com/YOUR_USERNAME/your-repository.git
-     cd your-repository
-     ```
-  2. Install required packages (if any Python scripts are provided) via:
-     ```bash
-     pip install -r requirements.txt
-     ```
-  3. Open the project folder and review the scripts and reports.
-
----
-
 *Howard Hsieh – Longitudinal Data Analysis, Statistical Modeling & SAS Implementation*
